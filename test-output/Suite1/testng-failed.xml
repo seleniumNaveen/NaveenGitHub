@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" parallel="none">
+  <test name="Naveen(failed)" parallel="none">
+    <classes>
+      <class name="com.hrms.testScripts.TC001">
+        <methods>
+          <include name="Tscripts"/>
+        </methods>
+      </class> <!-- com.hrms.testScripts.TC001 -->
+      <class name="com.hrms.testScripts.TC002">
+        <methods>
+          <include name="tc002"/>
+        </methods>
+      </class> <!-- com.hrms.testScripts.TC002 -->
+    </classes>
+  </test> <!-- Naveen(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

@@ -1,0 +1,68 @@
+2021-06-21 16:42:02,179 INFO  [Log] open app 
+2021-06-21 16:43:16,973 INFO  [Log] open app 
+2021-06-21 16:43:22,215 INFO  [Log] login 
+2021-06-21 16:43:23,852 INFO  [Log] logout 
+2021-06-21 16:43:23,967 INFO  [Log] close app 
+2021-06-21 16:44:25,202 INFO  [Log] open app 
+2021-06-21 16:44:30,070 INFO  [Log] login 
+2021-06-21 16:44:35,113 INFO  [Log] add emp 
+2021-06-21 16:44:36,681 INFO  [Log] logout 
+2021-06-21 16:44:36,790 INFO  [Log] close app 
+2021-06-21 16:50:47,504 INFO  [Log] open app 
+2021-06-21 16:50:52,010 INFO  [Log] login 
+2021-06-21 16:50:53,613 INFO  [Log] logout 
+2021-06-21 16:50:53,732 INFO  [Log] close app 
+2021-06-21 16:50:59,896 INFO  [Log] open app 
+2021-06-21 16:51:05,513 INFO  [Log] login 
+2021-06-21 16:51:10,510 INFO  [Log] add emp 
+2021-06-21 16:51:12,086 INFO  [Log] logout 
+2021-06-21 16:51:12,282 INFO  [Log] close app 
+2021-06-21 16:58:10,285 INFO  [Log] open app 
+2021-06-21 16:58:15,087 INFO  [Log] login 
+2021-06-21 16:58:16,773 INFO  [Log] logout 
+2021-06-21 16:58:16,931 INFO  [Log] close app 
+2021-06-21 16:58:22,856 INFO  [Log] open app 
+2021-06-21 16:58:27,867 INFO  [Log] login 
+2021-06-21 16:58:33,854 INFO  [Log] add emp 
+2021-06-21 16:58:35,472 INFO  [Log] logout 
+2021-06-21 16:58:35,652 INFO  [Log] close app 
+2021-06-21 17:21:39,147 INFO  [Log] open app 
+2021-06-21 17:21:42,469 INFO  [Log] login 
+2021-06-21 17:21:45,420 INFO  [Log] logout 
+2021-06-21 17:21:45,519 INFO  [Log] close app 
+2021-06-21 17:21:52,050 INFO  [Log] open app 
+2021-06-21 17:21:56,769 INFO  [Log] login 
+2021-06-21 17:22:01,336 INFO  [Log] add emp 
+2021-06-21 17:22:02,976 INFO  [Log] logout 
+2021-06-21 17:22:03,246 INFO  [Log] close app 
+2021-06-22 10:25:01,313 INFO  [Log] open app 
+2021-06-22 10:25:06,998 INFO  [Log] login 
+2021-06-22 10:25:08,634 INFO  [Log] logout 
+2021-06-22 10:25:08,750 INFO  [Log] close app 
+2021-06-22 10:25:16,738 INFO  [Log] open app 
+2021-06-22 10:25:22,271 INFO  [Log] login 
+2021-06-22 10:25:28,550 INFO  [Log] add emp 
+2021-06-22 10:25:30,272 INFO  [Log] logout 
+2021-06-22 10:25:30,492 INFO  [Log] close app 
+2021-06-22 10:38:46,661 INFO  [Log] open app 
+2021-06-22 10:38:51,521 INFO  [Log] login 
+2021-06-22 10:38:53,184 INFO  [Log] logout 
+2021-06-22 10:38:53,347 INFO  [Log] close app 
+2021-06-22 10:39:00,974 INFO  [Log] open app 
+2021-06-22 10:39:05,801 INFO  [Log] login 
+2021-06-22 10:39:11,144 INFO  [Log] add emp 
+2021-06-22 10:39:12,796 INFO  [Log] logout 
+2021-06-22 10:39:12,946 INFO  [Log] close app 
+2021-06-22 16:12:23,592 INFO  [Log] open app 
+2021-06-22 16:12:28,684 INFO  [Log] login 
+2021-06-22 16:12:30,362 INFO  [Log] logout 
+2021-06-22 16:12:30,485 INFO  [Log] close app 
+2021-06-22 16:12:37,884 INFO  [Log] open app 
+2021-06-22 16:12:42,484 INFO  [Log] login 
+2021-06-22 16:12:48,053 INFO  [Log] add emp 
+2021-06-22 16:12:49,686 INFO  [Log] logout 
+2021-06-22 16:12:49,802 INFO  [Log] close app 
+2021-06-22 16:20:37,496 INFO  [Log] open app 
+2021-06-22 16:20:38,762 INFO  [Log] login 
+2021-06-22 16:20:47,058 INFO  [Log] open app 
+2021-06-22 16:20:48,227 INFO  [Log] login 
